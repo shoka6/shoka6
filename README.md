@@ -1,8 +1,7 @@
 ### Hi there 👋
 
   #### Frontend
-  [![Frontend](https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nuxtjs,astro,flutter,electron,redux,materialui,tailwind,vite,html,css)](https://skillicons.d
-  ev)
+  [![Frontend](https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nuxtjs,astro,flutter,electron,redux,materialui,tailwind,vite,html,css)](https://skillicons.dev)
 
   #### Backend
   [![Backend](https://skillicons.dev/icons?i=go,ruby,nodejs,nestjs,rails,r)](https://skillicons.dev)
