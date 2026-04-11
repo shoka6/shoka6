@@ -1,3 +1,15 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,astro,aws,coffeescript,css,dart,docker,elasticsearch,electron,flutter,git,github,go,html,js,jest,linux,materialui,npm,nestjs,nextjs,nodejs,nuxtjs,r,rails,react,redux,ruby,tailwind,terraform,ts,ubuntu,vue,webpack,yarn)](https://skillicons.dev)
+  #### Frontend
+  [![Frontend](https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nuxtjs,astro,flutter,electron,redux,materialui,tailwind,vite,html,css)](https://skillicons.d
+  ev)
+
+  #### Backend
+  [![Backend](https://skillicons.dev/icons?i=go,ruby,nodejs,nestjs,rails,r)](https://skillicons.dev)
+
+  #### Cloud / Infra
+  [![Cloud / Infra](https://skillicons.dev/icons?i=aws,gcp,docker,terraform,ansible,elasticsearch,dynamodb,firebase,linux,ubuntu)](https://skillicons.dev)
+
+  #### Tools
+  [![Tools](https://skillicons.dev/icons?i=git,github,figma,npm,webpack,jest,vitest,coffeescript,dart)](https://skillicons.dev)
+  
